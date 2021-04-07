@@ -5,3 +5,4 @@
 2.drugie polecenie
 
 
+zabawa z gitignore
