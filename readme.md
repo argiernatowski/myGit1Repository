@@ -1,4 +1,4 @@
-**piewrsza linia tekstu**
+**tytuł strony**
 
-
-*tekst pisany italikiem*
+1.pierwsze polecenie
+2.drugie polecenie
