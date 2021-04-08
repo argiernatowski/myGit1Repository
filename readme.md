@@ -1,1 +1,1 @@
-tu beda commity:
+aR wprowadził zmiany.
